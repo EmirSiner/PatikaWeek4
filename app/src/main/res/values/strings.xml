@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PatikaWeek4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="temp">20</string>
+    <string name="please_entry_latitude">Entry Latitude</string>
+    <string name="please_entry_longitude">Entry Longitude</string>
+</resources>
